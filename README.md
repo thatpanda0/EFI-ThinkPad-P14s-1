@@ -22,6 +22,7 @@ If you don't have the same devices, DON'T USE THIS!!! Your USB drive will not bo
 
 * Booting into macOS Recovery (Sonoma)
 * Battery percentage
+* OpenCore Boot Picker GUI
 
 ### Untested
 
@@ -32,7 +33,8 @@ If you don't have the same devices, DON'T USE THIS!!! Your USB drive will not bo
 ### Not working
 
 * Wi-Fi (AirportItlwm)
-* OpenCanopy.efi
+* Graphics acceleration is apparently finicky
+  * Sometimes it doesn't use a GPU at all? I can't exactly tell, but graphics look abysmal on macOS recovery sometimes
 * Online macOS installation (no WiFi)
 
 
