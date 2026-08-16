@@ -28,13 +28,14 @@ If you don't have the same devices, DON'T USE THIS!!! Your USB drive will not bo
 
 * Bluetooth (5.1)
 * Port mapping (theoretically works)
-* Intel UHD Graphics 620 (should work)
 
 ### Not working
 
 * Wi-Fi (AirportItlwm)
-* Graphics acceleration is apparently finicky
-  * Sometimes it doesn't use a GPU at all? I can't exactly tell, but graphics look abysmal on macOS recovery sometimes
+* Graphics maybe?
+  * I think I have the wrong ID's
+  * macOS recovery looks absolutely abysmal, but you can technically see everything
+  * Garbled display (Black) for 30 seconds before Apple logo
 * Online macOS installation (no WiFi)
 
 
