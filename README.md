@@ -22,17 +22,20 @@ If you don't have the same devices, DON'T USE THIS!!! Your USB drive will not bo
 
 * Booting into macOS Recovery (Sonoma)
 * Battery percentage
+* OpenCore Boot Picker GUI
 
 ### Untested
 
 * Bluetooth (5.1)
 * Port mapping (theoretically works)
-* Intel UHD Graphics 620 (should work)
 
 ### Not working
 
 * Wi-Fi (AirportItlwm)
-* OpenCanopy.efi
+* Graphics maybe?
+  * I think I have the wrong ID's
+  * macOS recovery looks absolutely abysmal, but you can technically see everything
+  * Garbled display (Black) for 30 seconds before Apple logo
 * Online macOS installation (no WiFi)
 
 
