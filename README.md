@@ -23,6 +23,7 @@ If you don't have the same devices, DON'T USE THIS!!! Your USB drive will not bo
 * Booting into macOS Recovery (Sonoma)
 * Battery percentage
 * OpenCore Boot Picker GUI
+* Keyboard and trackpad (trackpad is a bit slow)
 
 ### Untested
 
